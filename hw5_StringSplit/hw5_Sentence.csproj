@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>hw5_Sentence</AssemblyName>
+    <RootNamespace>hw5_Sentence</RootNamespace>
   </PropertyGroup>
 
 </Project>
